@@ -1,0 +1,26 @@
+
+
+
+.button{
+-fx-background-color:#cdebeb;
+-fx-border-color: #92c8c8;
+-fx-text-fill: #000000;
+}
+
+.button:hover{
+-fx-background-color:#92c8c8;
+-fx-cursor: hand;
+}
+
+
+.text-field{
+-fx-alignment: center;
+}
+
+.text-area{
+-fx-alignment: center-left;
+}
+
+
+
+

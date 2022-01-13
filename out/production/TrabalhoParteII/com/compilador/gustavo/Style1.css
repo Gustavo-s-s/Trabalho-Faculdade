@@ -1,0 +1,44 @@
+AnchorPane>#t1{
+-fx-text-fill:#0cf5b3;
+}
+
+*{
+-fx-text-alignment: center;
+}
+
+.button{
+-fx-background-color:#cdebeb;
+-fx-border-color: #92c8c8;
+-fx-text-fill: #000000;
+}
+
+.button:hover{
+-fx-background-color:#92c8c8;
+-fx-cursor: hand;
+}
+
+TitledPane{
+-fx-background-color: lightgrey;
+}
+
+TitledPane:hover{
+-fx-background-color: grey;
+
+}
+
+
+#img{
+-fx-background-image: url("img.aeroports.jpg");
+-fx-background-size: 100% 100%;
+-fx-background-repeat: no-repeat;
+}
+
+.text-field{
+-fx-alignment: center;
+}
+
+#janela-de-opcoes{
+   -fx-background-color: lightgrey;
+}
+
+
